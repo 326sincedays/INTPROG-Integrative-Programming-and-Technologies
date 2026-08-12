@@ -6,50 +6,50 @@ $teamMembers = [
         "role" => "Leader",
         "course" => "BS Information Technology",
         "age" => 20,
-        "image" => "https://i.postimg.cc/yYhN8RRy/28a24211-eeb2-4d32-a0c0-5b60f5649762.jpg"
+        "image" => "https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/blob/main/Exercise%20%232%3A%20HTML-CSS-JavaScript-PHP/member1.jpg"
     ],
     [
         "name" => "Christer Pocio",
         "role" => "Member",
         "course" => "BS Information Technology",
         "age" => 21,
-        "image" => "https://i.postimg.cc/0NnXfP4X/767585470-1242298784644459-1486630913767364914-n.png"
+        "image" => "https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/blob/main/Exercise%20%232%3A%20HTML-CSS-JavaScript-PHP/member2.png"
     ],
     [
         "name" => "Christian Miguel Cervantes",
         "role" => "Member",
         "course" => "BS Information Technology",
         "age" => 22,
-        "image" => "https://i.postimg.cc/6Qfgmd8v/762583872-1994637177870382-6215065930480461417-n.jpg"
+        "image" => "https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/blob/main/Exercise%20%232%3A%20HTML-CSS-JavaScript-PHP/member3.jpg"
     ],
     [
         "name" => "James Gonzalo",
         "role" => "Member",
         "course" => "BS Information Technology",
         "age" => 21,
-        "image" => "https://i.postimg.cc/NFNM4qxD/764496924-853353531044316-1639608256169851540-n.jpg"
+        "image" => "https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/blob/main/Exercise%20%232%3A%20HTML-CSS-JavaScript-PHP/member4.jpg"
     ],
     [
         "name" => "Christian Pañoso",
         "role" => "Member",
         "course" => "BS Information Technology",
         "age" => 22,
-        "image" => "https://i.postimg.cc/Kv7Y8TTp/0e2151a5-d822-4532-8b4b-6c60d5452698.jpg"
+        "image" => "https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/blob/main/Exercise%20%232%3A%20HTML-CSS-JavaScript-PHP/member5.jpg"
     ],
     [
         "name" => "Jayrome Mondido",
         "role" => "Member",
         "course" => "BS Information Technology",
         "age" => 21,
-        "image" => "https://i.postimg.cc/Y0tGRxBC/691145477-2024579041492455-669069451531532742-n.jpg"
+        "image" => "https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/blob/main/Exercise%20%232%3A%20HTML-CSS-JavaScript-PHP/member6.jpg"
     ],
-		[
-				"name" => "Ma. Dianah Sophia Romasanta",
-				"role" => "Member",
-				"course" => "BS Information Technology",
-				"age" => 21,
-				"image" => ""
-		]
+	[
+		"name" => "Ma. Dianah Sophia Romasanta",
+		"role" => "Member",
+		"course" => "BS Information Technology",
+		"age" => 21,
+		"image" => "https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/blob/main/Exercise%20%232%3A%20HTML-CSS-JavaScript-PHP/member7.png"
+	]
 ];
 ?>
 
@@ -57,7 +57,7 @@ $teamMembers = [
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+"    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Our Team Profile | Group 1</title>
 
