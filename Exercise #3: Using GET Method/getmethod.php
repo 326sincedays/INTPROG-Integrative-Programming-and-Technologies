@@ -51,6 +51,7 @@ $team = [
 				"course" => "BS Information Technology",
 				"age" => 20,
 				"image" => "Dianah.jpg"
+	]
 ];
 
 ?>
