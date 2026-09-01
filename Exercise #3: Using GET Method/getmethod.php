@@ -45,12 +45,12 @@ $team = [
         "age" => 21,
         "image" => "Jayrome.jpg"
     ],
-		"Dianah" => [
-				"name" => "Dianah Romasanta",
-				"role" => "Member",
-				"course" => "BS Information Technology",
-				"age" => 20,
-				"image" => "Dianah.jpg"
+	"Dianah" => [
+		"name" => "Dianah Romasanta",
+		"role" => "Member",
+		"course" => "BS Information Technology",
+		"age" => 20,
+		"image" => "Dianah.jpg"
 	]
 ];
 
@@ -179,7 +179,7 @@ $team = [
     <a href="index.php?member=James">James</a>
     <a href="index.php?member=Pans">Pans</a>
     <a href="index.php?member=Jayrome">Jayrome</a>
-		<a href="index.php?member=Dianah">Dianah</a>
+	<a href="index.php?member=Dianah">Dianah</a>
 </div>
 
 <div class="container">
