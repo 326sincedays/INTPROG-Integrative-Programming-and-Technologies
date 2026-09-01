@@ -45,13 +45,13 @@ $team = [
         "age" => 21,
         "image" => "Jayrome.jpg"
     ],
-		"Dianah" => [
-				"name" => "Dianah Romasanta",
-				"role" => "Member",
-				"course" => "BS Information Technology",
-				"age" => 20,
-				"image" => "Dianah.jpg"
-		]
+	"Dianah" => [
+		"name" => "Dianah Romasanta",
+		"role" => "Member",
+		"course" => "BS Information Technology",
+		"age" => 20,
+		"image" => "Dianah.jpg"
+	]
 ];
 
 ?>
@@ -190,7 +190,7 @@ $team = [
 
         <button type="submit" name="member" value="Jayrome">Jayrome</button>
 
-    		<button type="submit" name="member" value="Dianah">Dianah</button>
+    	<button type="submit" name="member" value="Dianah">Dianah</button>
 
     </form>
 
