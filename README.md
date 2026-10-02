@@ -15,7 +15,7 @@ this repository contains all my class assignments/exercises for my course
 - [Exercise #2: HTML/CSS/JavaScript/PHP](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/86ad562004afaab2f59399310339681e7f474750/Exercise%20%232%3A%20HTML-CSS-JavaScript-PHP)
 - [Assignment #1: If else Statement](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/802be7049f203c47bd6904546abe8a5b539640d3/Assignment%20%231%3A%20If%20else%20Statement)
 - [Exercise #3: Using GET Method](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/5c0b10e7452f60adee25ba3e6fc9e2f255726e00/Exercise%20%233%3A%20Using%20GET%20Method)
-- 
+- [Exercise #4: Using POST Method](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/668be764ead8ea819a4331c06a833ed72af514e5/Exercise%20%234%3A%20Using%20POST%20Method)
 
 ## Finals
 
