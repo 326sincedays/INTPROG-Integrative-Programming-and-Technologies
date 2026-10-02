@@ -18,5 +18,6 @@ this repository contains all my class assignments/exercises for my course
 - [Exercise #4: Using POST Method](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/668be764ead8ea819a4331c06a833ed72af514e5/Exercise%20%234%3A%20Using%20POST%20Method)
 
 ## Finals
+- [Exercise #2: Exploring XMLHttpRequest](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/8017ce836d4f1c68d6b88106e05ce45116083dff/Romasanta_MaDianahSophia_Lab2_XMLHttpRequest)
 
 start::2026-08-01
