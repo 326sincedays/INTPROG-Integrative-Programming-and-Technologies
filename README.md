@@ -19,5 +19,6 @@ this repository contains all my class assignments/exercises for my course
 
 ## Finals
 - [Exercise #2: Exploring XMLHttpRequest](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/8017ce836d4f1c68d6b88106e05ce45116083dff/Romasanta_MaDianahSophia_Lab2_XMLHttpRequest)
+- [Exercise #3: Exploring the Fetch API](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/dd8828adba4b8300e356194af4c8610f743e3940/Romasanta_MaDianahSophia_Lab3_FetchAPI)
 
 start::2026-08-01
