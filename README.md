@@ -11,6 +11,7 @@
 this repository contains all my class assignments/exercises for my course
 
 ## Midterm
+- [[Exercise #1: HTML & CSS Group Page]]
 
 ## Finals
 
