@@ -10,4 +10,8 @@
 
 this repository contains all my class assignments/exercises for my course
 
+## Midterm
+
+## Finals
+
 start::2026-08-01
