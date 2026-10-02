@@ -1,1 +1,64 @@
-ha?
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fetch API Demo</title>
+</head>
+<body>
+  <h2>Exploring the Fetch API</h2>
+
+  <button id="loadData">Load Post Data</button>
+  <button id="sendData">Send New Post</button>
+
+  <div id="output"></div>
+
+  <script>
+    var output = document.getElementById("output");
+
+    function loadPost() {
+      fetch("https://jsonplaceholder.typicode.com/posts/1")
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error("Status " + response.status);
+          }
+          return response.json();
+        })
+        .then(function (data) {
+          output.innerHTML = "Post Title: " + data.title + "<br><br>Content: " + data.body;
+        })
+        .catch(function (error) {
+          output.innerHTML = "Error: " + error.message;
+        });
+    }
+
+    function sendPost() {
+      fetch("https://jsonplaceholder.typicode.com/posts", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          title: "My New Post",
+          body: "Learning Fetch API is fun!",
+          userId: 1
+        })
+      })
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error("Status " + response.status);
+          }
+          return response.json();
+        })
+        .then(function (data) {
+          output.innerHTML = "New Post Created!<br>Post ID: " + data.id;
+        })
+        .catch(function (error) {
+          output.innerHTML = "Error: " + error.message;
+        });
+    }
+
+    document.getElementById("loadData").addEventListener("click", loadPost);
+    document.getElementById("sendData").addEventListener("click", sendPost);
+  </script>
+</body>
+</html>
