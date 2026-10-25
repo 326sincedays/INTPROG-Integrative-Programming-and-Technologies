@@ -1,1 +1,35 @@
-process...
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab 5: PHP + JSON + AJAX</title>
+</head>
+<body>
+    <h2>Welcome Form</h2>
+    <form id="myForm">
+        <input type="text" id="name" placeholder="Enter your name">
+        <button type="submit">Send</button>
+    </form>
+  
+    <p id="result"></p>
+  
+    <script>
+        var form = document.getElementById("myForm");
+        form.addEventListener("submit", function (event) {
+            event.preventDefault();
+            var name = document.getElementById("name").value;
+
+            fetch("lab5_process.php", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ name: name })
+            })
+            .then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                document.getElementById("result").innerText = JSON.stringify(data);
+            });
+        });
+    </script>
+</body>
+</html>
