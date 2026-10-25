@@ -24,5 +24,4 @@ this repository contains all my class assignments/exercises for my course
 - [Exercise #4: Exploring XML](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/2bc5814a2ddb5e6adc400c4d50b317bcb209d78d/Romasanta_MaDianahSophia_Lab4_XML)
 
 start::2026-08-01
-
 end::
