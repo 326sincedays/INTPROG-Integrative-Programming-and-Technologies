@@ -23,5 +23,7 @@ this repository contains all my class assignments/exercises for my course
 - [Exercise #3: Exploring the Fetch API](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/dd8828adba4b8300e356194af4c8610f743e3940/Romasanta_MaDianahSophia_Lab3_FetchAPI)
 - [Exercise #4: Exploring XML](https://github.com/326sincedays/INTPROG-Integrative-Programming-and-Technologies/tree/2bc5814a2ddb5e6adc400c4d50b317bcb209d78d/Romasanta_MaDianahSophia_Lab4_XML)
 
+
 start::2026-08-01
+
 end::
