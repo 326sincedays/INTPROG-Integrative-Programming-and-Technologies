@@ -26,4 +26,4 @@ this repository contains all my class assignments/exercises for my course
 
 start::2026-08-01
 
-end::
+end::2026-11-21
